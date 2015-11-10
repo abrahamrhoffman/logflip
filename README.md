@@ -1,9 +1,11 @@
 Logflip v0.1
 --------
+Multi-threaded logrotate written in Golang.
+"Fear the Gopher!"
 
-Nov 6th, 2015
+<i>Nov 6th, 2015</i>
 
-Why Logflip? 
+<h2>Why Logflip?</h2>
 
 Logflip is a logrotate replacement. If you have used logrotate in the past,
 then you know how effective it can be. However, logrotate starts to break  
