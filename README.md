@@ -30,4 +30,5 @@ Logflip is easy. It installs itself.
 - When .log reaches 100MB in size & .log.1 reaches 100MB      
   in size, logflip deletes .log.1.                            
 <br>
-<b>That's it! New features to come with new releases.</b>
+<h4>Questions / Comments</h4>
+Both are welcome. Please comment here for a response.
