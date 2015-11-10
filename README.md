@@ -3,8 +3,6 @@ Logflip v0.1
 Multi-threaded logrotate written in Golang.
 <br>"Fear the Gopher!"
 <br>
-<h4>Release Info:</h4>
-Nov 6th, 2015 - Initial Commit.
 
 <h2>Why Logflip?</h2>
 
@@ -30,4 +28,6 @@ Logflip is easy. It installs itself.
   they reach 100MB in size. file.log -> file.log.1            
 - When .log reaches 100MB in size & .log.1 reaches 100MB      
   in size, logflip deletes .log.1.                            
-<br>
+
+<h4>Release Info:</h4>
+Nov 6th, 2015 - Initial Commit.
