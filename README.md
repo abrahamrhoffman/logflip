@@ -4,7 +4,7 @@ Multi-threaded logrotate written in Golang.
 <br>"Fear the Gopher!"
 <br>
 <h4>Release Info:</h4>
-<i>Nov 6th, 2015 - Initial Commit.</i>
+Nov 6th, 2015 - Initial Commit.
 
 <h2>Why Logflip?</h2>
 
