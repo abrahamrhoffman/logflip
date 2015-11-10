@@ -1,7 +1,7 @@
 Logflip v0.1
 --------
 Multi-threaded logrotate written in Golang.
-"Fear the Gopher!"
+<br>"Fear the Gopher!"
 
 <i>Nov 6th, 2015</i>
 
@@ -21,7 +21,7 @@ Logflip is easy. It installs itself.
 - Just run 'sudo ./logflip'
 - After that, you can 'service logflip start|stop|status' it.
 
-<h3> Feature List </h3>
+<h2> Feature List </h2>
 - Creates (if none exists) /var/logflip/logflip.conf          
 - Automagically scans your OS for .log files and adds         
   to logflip.conf                                             
