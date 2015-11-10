@@ -2,8 +2,9 @@ Logflip v0.1
 --------
 Multi-threaded logrotate written in Golang.
 <br>"Fear the Gopher!"
-
-<i>Nov 6th, 2015</i>
+<br>
+<br> Release Info:
+<i>Nov 6th, 2015</i> - Initial Commit.
 
 <h2>Why Logflip?</h2>
 
