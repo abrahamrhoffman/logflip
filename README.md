@@ -1,4 +1,4 @@
-Logflip v0.1
+Logflip v0.1 [WIP]
 --------
 Multi-threaded logrotate written in Golang.
 <br>"Fear the Gopher!"
