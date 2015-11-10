@@ -21,7 +21,7 @@ Logflip is easy. It installs itself.
 - Just run 'sudo ./logflip'
 - After that, you can 'service logflip start|stop|status' it.
 
-<h2> Feature List </h2>
+<h2>Feature List</h2>
 - Creates (if none exists) /var/logflip/logflip.conf          
 - Automagically scans your OS for .log files and adds         
   to logflip.conf                                             
