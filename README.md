@@ -1,7 +1,7 @@
 Logflip v0.1 [WIP]
 --------
 Multi-threaded logrotate written in Golang.<br>
-<a href="http://i.imgur.com/DrDNtT7.jpg"></a>
+![alt tag](http://i.imgur.com/DrDNtT7.jpg)
 <br>"Fear the Gopher!"
 <br>
 
