@@ -1,6 +1,7 @@
 Logflip v0.1 [WIP]
 --------
-Multi-threaded logrotate written in Golang.
+Multi-threaded logrotate written in Golang.<br>
+<blockquote class="imgur-embed-pub" lang="en" data-id="DrDNtT7"><a href="//imgur.com/DrDNtT7">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 <br>"Fear the Gopher!"
 <br>
 
