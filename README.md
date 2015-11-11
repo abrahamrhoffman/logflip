@@ -7,14 +7,14 @@ Multi-threaded logrotate written in Golang.<br><br>
 
 <h2>Why Logflip?</h2>
 
-Logflip is a logrotate replacement. If you have used logrotate in the past,
-then you know how effective it can be. However, logrotate starts to break  
-down once you need to run it more than daily. This is because logrotate is 
-old. The original creators didn't take into account that logs could grow at
-a rate of hundreds of megabytes per second. Or maybe the designer just     
-didn't have a need to rotate any faster. Regardless, with the advent of    
-Cloud, Engineers and Operations teams have a critical need to rotate logs  
-as quickly as possible under specific conditions.                          
+Logflip is a logrotate replacement. If you have used logrotate in the past,<br>
+then you know how effective it can be. However, logrotate starts to break  <br>
+down once you need to run it more than daily. This is because logrotate is <br>
+old. The original creators didn't take into account that logs could grow at<br>
+a rate of hundreds of megabytes per second. Or maybe the designer just     <br>
+didn't have a need to rotate any faster. Regardless, with the advent of    <br>
+Cloud, Engineers and Operations teams have a critical need to rotate logs  <br>
+as quickly as possible under specific conditions.                          <br>
 
 <h2>Logflip Usage</h2>
 Logflip is easy. It installs itself. 
