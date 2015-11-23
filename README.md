@@ -17,12 +17,9 @@ Logflip is easy. It installs itself.
 
 <h2>Feature List</h2>
 - Creates (if none exists) /var/logflip/logflip.conf          
-- Automagically scans your OS for .log files and adds         
-  to logflip.conf                                             
-- Constantly monitors .log files and "flips" them when        
-  they reach 100MB in size. file.log -> file.log.1            
-- When .log reaches 100MB in size & .log.1 reaches 100MB      
-  in size, logflip deletes .log.1.                            
+- Automagically scans your OS for .log files and adds to logflip.conf                                             
+- Constantly monitors .log files and "flips" them when they reach 100MB in size. file.log -> file.log.1            
+- When .log reaches 100MB in size & .log.1 reaches 100MB in size, logflip deletes .log.1.                            
 
 <h4>Release Info:</h4>
 Nov 6th, 2015 - Initial Commit.
